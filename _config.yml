@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: The Junior ML Engineer Blog
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+description: Tips and Tricks for Junior ML Engineers.
 github_username: ahmed3yad
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "The-Junior-ML-Engineer"
